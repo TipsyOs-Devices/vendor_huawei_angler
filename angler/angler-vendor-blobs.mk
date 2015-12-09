@@ -13,14 +13,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-    vendor/huawei/angler/proprietary/bin/diag_test_server:system/bin/diag_test_server \
-    vendor/huawei/angler/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/huawei/angler/proprietary/bin/oem_qmi_server:system/bin/oem_qmi_server \
-    vendor/huawei/angler/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/huawei/angler/proprietary/bin/qti:system/bin/qti \
-    vendor/huawei/angler/proprietary/bin/sensortool.angler:system/bin/sensortool.angler \
-    vendor/huawei/angler/proprietary/bin/slim_daemon:system/bin/slim_daemon \
-    vendor/huawei/angler/proprietary/bin/sound_trigger_test:system/bin/sound_trigger_test \
     vendor/huawei/angler/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/huawei/angler/proprietary/bin/cnd:system/bin/cnd \
     vendor/huawei/angler/proprietary/bin/diag_callback_client:system/bin/diag_callback_client \
